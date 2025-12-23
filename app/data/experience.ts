@@ -2,6 +2,26 @@ import type { Experience } from "@/app/types/experience";
 
 export const experience: Experience[] = [
   {
+    id: "freelance-2023",
+    company: "Freelance Software Engineer",
+    companyShort: "Freelance",
+    role: "Full Stack Engineer",
+    period: "Jan 2023 – Present",
+    location: "Remote",
+    highlights: [
+      "Built and deployed custom full-stack solutions for 6+ small business clients using React, Spring Boot, and PostgreSQL with payment, booking, and analytics integrations that improved operational visibility.",
+      "Led end-to-end client engagements from requirements through maintenance to deliver scalable, user-focused systems while sustaining 100% client satisfaction.",
+    ],
+    tech: [
+      "React",
+      "Spring Boot",
+      "PostgreSQL",
+      "MongoDB",
+      "API Integration",
+      "Full Stack Development",
+    ],
+  },
+  {
     id: "sjsu-research-2025",
     company: "SJSU Aerospace",
     companyShort: "SJSU ",
