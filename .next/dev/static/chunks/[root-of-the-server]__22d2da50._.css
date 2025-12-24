@@ -1637,6 +1637,10 @@
     padding-top: calc(var(--spacing) * 20);
   }
 
+  .pt-24 {
+    padding-top: calc(var(--spacing) * 24);
+  }
+
   .pr-3 {
     padding-right: calc(var(--spacing) * 3);
   }
@@ -1647,6 +1651,10 @@
 
   .pb-16 {
     padding-bottom: calc(var(--spacing) * 16);
+  }
+
+  .pb-24 {
+    padding-bottom: calc(var(--spacing) * 24);
   }
 
   .pl-5 {

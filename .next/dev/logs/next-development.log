@@ -1444,3 +1444,1128 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [03:09:53.531] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
 [03:09:53.531] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
 [03:09:53.531] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:19:41.981] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:42.360] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:42.416] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:42.416] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:42.418] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:42.419] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:42.419] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:42.419] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:42.419] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:43.130] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:43.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:43.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:43.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:43.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:43.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:43.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:43.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:43.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:45.203] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:45.325] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:45.326] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:45.326] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:45.326] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:45.326] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:45.326] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:45.326] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:45.326] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com",
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:47.027] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:47.324] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:47.324] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:47.324] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:47.325] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:47.325] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:47.325] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:47.325] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:47.325] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:56.883] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:57.321] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:57.321] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:57.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:57.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:57.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:57.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:57.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:57.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:58.016] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:58.321] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:58.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:58.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:58.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:58.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:58.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:58.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:58.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:59.321] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:59.321] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:59.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:59.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:59.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:59.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:59.322] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:59.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:19:59.323] Browser ERROR   ./app/data/projects.ts:13:5
+Parsing ecmascript source code failed
+  11 |     image: "/images/projects/Project.png",
+  12 |     github: "https://github.com/gdjonret/Hotel-Website.git",
+> 13 |     {/*external: "https://your-demo-link.com"*/},
+     |     ^
+  14 |     showDetailsButton: true,
+  15 |     techStack: {
+  16 |       backend: [
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[03:20:22.316] Server  LOG     ✓ Compiled in 22ms
+[03:25:19.923] Server  LOG     ✓ Compiled in 81ms
+[03:25:19.955] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:25:19.964] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:25:19.964] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:25:19.965] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:25:19.967] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:25:19.967] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:25:19.968] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:25:20.083] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:25:20.143] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[03:25:20.664] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:25:20.704] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:25:20.994] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:25:21.014] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:25:21.015] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:25:21.029] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:25:21.055] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:25:21.073] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:25:21.087] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.322] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:25:21.323] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes

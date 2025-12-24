@@ -182,7 +182,7 @@ const projects = [
         ],
         image: "/images/projects/Project.png",
         github: "https://github.com/gdjonret/Hotel-Website.git",
-        external: "https://your-demo-link.com",
+        // external: "https://your-demo-link.com",
         showDetailsButton: true,
         techStack: {
             backend: [
@@ -215,7 +215,7 @@ const projects = [
         ],
         image: "/images/projects/Project4.png",
         github: "https://github.com/yourusername/hotel",
-        external: "https://your-demo-link.com",
+        // external: "https://your-demo-link.com",
         showDetailsButton: true
     },
     {

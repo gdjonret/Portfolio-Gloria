@@ -10,7 +10,7 @@ export const projects: Project[] = [
     tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
     image: "/images/projects/Project.png",
     github: "https://github.com/gdjonret/Hotel-Website.git",
-    external: "https://your-demo-link.com",
+    // external: "https://your-demo-link.com",
     showDetailsButton: true,
     techStack: {
       backend: [
@@ -37,7 +37,7 @@ export const projects: Project[] = [
     tech: ["React", "Spring Boot", "Flyway", "PostgreSQL"],
     image: "/images/projects/Project4.png",
     github: "https://github.com/yourusername/hotel",
-    external: "https://your-demo-link.com",
+    // external: "https://your-demo-link.com",
     showDetailsButton: true,
   },
   {
