@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/gloriadjonret/Documents/Portfolio/app/projects/layout.tsx"],"sourcesContent":["import type { ReactNode } from \"react\";\n\nexport default function ProjectsLayout({ children }: { children: ReactNode }) {\n  return children;\n}\n"],"names":[],"mappings":";;;;AAEe,SAAS,eAAe,EAAE,QAAQ,EAA2B;IAC1E,OAAO;AACT"}}]
+}

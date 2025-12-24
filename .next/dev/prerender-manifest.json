@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "68f06e22d1e4dd58ad4b204227308f86",
-    "previewModeSigningKey": "6975c9e9513d362ec2ec1c418cd41abe01cb4ac8946b59a08005f3e8af122d27",
-    "previewModeEncryptionKey": "b81c47c805c06eb117c5b4e5429b4f9b2963817f570ff4a8f80e91d35c176670"
-  }
-}
+{"version":4,"routes":{"/projects/hotel-reservation-platform":{},"/projects/admin-platform":{},"/projects/braids-booking-platform":{},"/projects/faculty-profile-website":{},"/projects/infrastructure-platform":{}},"dynamicRoutes":{"/projects/[id]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/projects/[id]","routeRegex":"^\\/projects\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"9c53a2d00994f793a43d7451e5967863","previewModeSigningKey":"fb24434f45dbfcce5b441c603a78c8751459fcc80f203b640f3eabc5f3a545e9","previewModeEncryptionKey":"40372fcd692b9a076da2e9a15cdd8cbe2510c354a7b70f1a9625e707128eb510"}}

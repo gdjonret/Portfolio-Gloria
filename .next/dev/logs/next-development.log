@@ -1,5 +1,1446 @@
-[00:00:00.374] Server  LOG     ✓ Ready in 273ms
-[00:00:03.815] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:03.926] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:01:33.766] Server  WARN    ⚠ Cross origin request detected from 10.0.0.147 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
-Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:00.661] Server  LOG     ✓ Ready in 498ms
+[00:00:05.776] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.326] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:06.326] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:06.326] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:06.326] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:06.326] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:06.326] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:08.077] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.209] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:08.209] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:08.209] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:27.371] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:28.048] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:30.019] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:46.645] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:46.780] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:46.780] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:46.780] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:47.585] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:47.585] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:47.585] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:09:37.016] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:37.016] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:09:37.016] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:09:37.016] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:09:37.016] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:09:37.016] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:09:37.016] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:11:00.321] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     /subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:00.321] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     /subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:00.321] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     /subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:00.322] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     /subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:04.325] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:04.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:04.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:04.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:05.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:05.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:05.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:05.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:07.324] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:07.324] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:07.325] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:07.325] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:10.323] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",/
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:10.323] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",/
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:10.323] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",/
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:10.323] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",/
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:11.323] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",*/}
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:11.323] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",*/}
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:11.324] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",*/}
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:11.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",*/}
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:16.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",/
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:16.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",/
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:16.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",/
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:16.326] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",/
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:18.322] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:18.322] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:18.322] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:18.322] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/*subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:20.321] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:20.321] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:20.325] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:20.325] Browser ERROR   ./app/data/projects.ts:38:5
+Parsing ecmascript source code failed
+  36 |   {
+  37 |     id: "traffic-ai-clone-2",
+> 38 |     {/subtitle: "Featured Project",
+     |     ^
+  39 |     title: "Smart City Traffic AI Platform",
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+
+Unexpected token `{`. Expected identifier, string literal, numeric literal or [ for the computed key
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:27.321] Browser ERROR   ./app/data/projects.ts:39:12
+Parsing ecmascript source code failed
+  37 |     id: "traffic-ai-clone-2",
+  38 |     subtitle: "Featured Project",
+> 39 |     title: ",
+     |            ^^
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+  42 |     tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:27.323] Browser ERROR   ./app/data/projects.ts:39:12
+Parsing ecmascript source code failed
+  37 |     id: "traffic-ai-clone-2",
+  38 |     subtitle: "Featured Project",
+> 39 |     title: ",
+     |            ^^
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+  42 |     tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:27.323] Browser ERROR   ./app/data/projects.ts:39:12
+Parsing ecmascript source code failed
+  37 |     id: "traffic-ai-clone-2",
+  38 |     subtitle: "Featured Project",
+> 39 |     title: ",
+     |            ^^
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+  42 |     tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:27.323] Browser ERROR   ./app/data/projects.ts:39:12
+Parsing ecmascript source code failed
+  37 |     id: "traffic-ai-clone-2",
+  38 |     subtitle: "Featured Project",
+> 39 |     title: ",
+     |            ^^
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+  42 |     tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:30.323] Browser ERROR   ./app/data/projects.ts:39:12
+Parsing ecmascript source code failed
+  37 |     id: "traffic-ai-clone-2",
+  38 |     subtitle: "Featured Project",
+> 39 |     title: "Faculty Profile Website,
+     |            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+  42 |     tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:30.323] Browser ERROR   ./app/data/projects.ts:39:12
+Parsing ecmascript source code failed
+  37 |     id: "traffic-ai-clone-2",
+  38 |     subtitle: "Featured Project",
+> 39 |     title: "Faculty Profile Website,
+     |            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+  42 |     tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:30.323] Browser ERROR   ./app/data/projects.ts:39:12
+Parsing ecmascript source code failed
+  37 |     id: "traffic-ai-clone-2",
+  38 |     subtitle: "Featured Project",
+> 39 |     title: "Faculty Profile Website,
+     |            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+  42 |     tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:30.323] Browser ERROR   ./app/data/projects.ts:39:12
+Parsing ecmascript source code failed
+  37 |     id: "traffic-ai-clone-2",
+  38 |     subtitle: "Featured Project",
+> 39 |     title: "Faculty Profile Website,
+     |            ^^^^^^^^^^^^^^^^^^^^^^^^^
+  40 |     description:
+  41 |       "Full-stack platform for traffic monitoring and scheduling, integrating CCTV streams and AI-powered insights with a modern dashboard experience.",
+  42 |     tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:11:31.997] Server  LOG     ✓ Compiled in 9ms
+[00:16:07.313] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:07.481] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:16:07.481] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:16:07.481] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:16:07.481] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:16:07.481] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:16:07.481] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:16:47.258] Browser ERROR   ./app/data/projects.ts:42:39
+Parsing ecmascript source code failed
+  40 |     description:
+  41 |       "Static faculty profile site featuring bio, research themes, and quick access to publications, teaching, and people pages in a streamlined experience.",
+> 42 |     tech: ["Javascript", "Html", "Css""],
+     |                                       ^^^
+  43 |     image: "/images/projects/Project5.png",
+  44 |     github: "https://github.com/yawoezunkpe-byte/Faculty-Website.git",
+  45 |     external: "https://ezunkpeyawo.com/pages/index.html",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:16:47.321] Browser ERROR   ./app/data/projects.ts:42:39
+Parsing ecmascript source code failed
+  40 |     description:
+  41 |       "Static faculty profile site featuring bio, research themes, and quick access to publications, teaching, and people pages in a streamlined experience.",
+> 42 |     tech: ["Javascript", "Html", "Css""],
+     |                                       ^^^
+  43 |     image: "/images/projects/Project5.png",
+  44 |     github: "https://github.com/yawoezunkpe-byte/Faculty-Website.git",
+  45 |     external: "https://ezunkpeyawo.com/pages/index.html",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:16:47.321] Browser ERROR   ./app/data/projects.ts:42:39
+Parsing ecmascript source code failed
+  40 |     description:
+  41 |       "Static faculty profile site featuring bio, research themes, and quick access to publications, teaching, and people pages in a streamlined experience.",
+> 42 |     tech: ["Javascript", "Html", "Css""],
+     |                                       ^^^
+  43 |     image: "/images/projects/Project5.png",
+  44 |     github: "https://github.com/yawoezunkpe-byte/Faculty-Website.git",
+  45 |     external: "https://ezunkpeyawo.com/pages/index.html",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:16:49.885] Browser ERROR   ./app/data/projects.ts:42:34
+Parsing ecmascript source code failed
+  40 |     description:
+  41 |       "Static faculty profile site featuring bio, research themes, and quick access to publications, teaching, and people pages in a streamlined experience.",
+> 42 |     tech: ["Javascript", "Html", "Css],
+     |                                  ^^^^^^
+  43 |     image: "/images/projects/Project5.png",
+  44 |     github: "https://github.com/yawoezunkpe-byte/Faculty-Website.git",
+  45 |     external: "https://ezunkpeyawo.com/pages/index.html",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:16:50.323] Browser ERROR   ./app/data/projects.ts:42:34
+Parsing ecmascript source code failed
+  40 |     description:
+  41 |       "Static faculty profile site featuring bio, research themes, and quick access to publications, teaching, and people pages in a streamlined experience.",
+> 42 |     tech: ["Javascript", "Html", "Css],
+     |                                  ^^^^^^
+  43 |     image: "/images/projects/Project5.png",
+  44 |     github: "https://github.com/yawoezunkpe-byte/Faculty-Website.git",
+  45 |     external: "https://ezunkpeyawo.com/pages/index.html",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:16:50.323] Browser ERROR   ./app/data/projects.ts:42:34
+Parsing ecmascript source code failed
+  40 |     description:
+  41 |       "Static faculty profile site featuring bio, research themes, and quick access to publications, teaching, and people pages in a streamlined experience.",
+> 42 |     tech: ["Javascript", "Html", "Css],
+     |                                  ^^^^^^
+  43 |     image: "/images/projects/Project5.png",
+  44 |     github: "https://github.com/yawoezunkpe-byte/Faculty-Website.git",
+  45 |     external: "https://ezunkpeyawo.com/pages/index.html",
+
+Unterminated string constant
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:16:51.082] Server  LOG     ✓ Compiled in 9ms
+[00:34:04.017] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:04.017] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:34:04.017] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:34:04.017] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:34:04.017] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:34:04.017] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:34:04.017] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:47:59.762] Browser ERROR   ./app/data/projects.ts:31:39
+Parsing ecmascript source code failed
+  29 |     description:
+  30 |       "Static booking and marketing platform for a braiding studio, integrating a dynamic service catalog, image galleries, and SMTP-backed contact workflows within a modern Next.js web experience.",
+> 31 |     tech: ["NextJS", "TypeScript", "" "Tailwind CSS"],
+     |                                       ^^^^^^^^^^^^^^
+  32 |     image: "/images/projects/Project6.png",
+  33 |     github: "https://github.com/yourusername/traffic-ai",
+  34 |     external: "https://your-demo-link.com",
+
+Expected ',', got 'string literal ("Tailwind CSS", "Tailwind CSS")'
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:48:00.322] Browser ERROR   ./app/data/projects.ts:31:39
+Parsing ecmascript source code failed
+  29 |     description:
+  30 |       "Static booking and marketing platform for a braiding studio, integrating a dynamic service catalog, image galleries, and SMTP-backed contact workflows within a modern Next.js web experience.",
+> 31 |     tech: ["NextJS", "TypeScript", "" "Tailwind CSS"],
+     |                                       ^^^^^^^^^^^^^^
+  32 |     image: "/images/projects/Project6.png",
+  33 |     github: "https://github.com/yourusername/traffic-ai",
+  34 |     external: "https://your-demo-link.com",
+
+Expected ',', got 'string literal ("Tailwind CSS", "Tailwind CSS")'
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:48:00.322] Browser ERROR   ./app/data/projects.ts:31:39
+Parsing ecmascript source code failed
+  29 |     description:
+  30 |       "Static booking and marketing platform for a braiding studio, integrating a dynamic service catalog, image galleries, and SMTP-backed contact workflows within a modern Next.js web experience.",
+> 31 |     tech: ["NextJS", "TypeScript", "" "Tailwind CSS"],
+     |                                       ^^^^^^^^^^^^^^
+  32 |     image: "/images/projects/Project6.png",
+  33 |     github: "https://github.com/yourusername/traffic-ai",
+  34 |     external: "https://your-demo-link.com",
+
+Expected ',', got 'string literal ("Tailwind CSS", "Tailwind CSS")'
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:48:00.322] Browser ERROR   ./app/data/projects.ts:31:39
+Parsing ecmascript source code failed
+  29 |     description:
+  30 |       "Static booking and marketing platform for a braiding studio, integrating a dynamic service catalog, image galleries, and SMTP-backed contact workflows within a modern Next.js web experience.",
+> 31 |     tech: ["NextJS", "TypeScript", "" "Tailwind CSS"],
+     |                                       ^^^^^^^^^^^^^^
+  32 |     image: "/images/projects/Project6.png",
+  33 |     github: "https://github.com/yourusername/traffic-ai",
+  34 |     external: "https://your-demo-link.com",
+
+Expected ',', got 'string literal ("Tailwind CSS", "Tailwind CSS")'
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:48:01.393] Browser ERROR   ./app/data/projects.ts:31:40
+Parsing ecmascript source code failed
+  29 |     description:
+  30 |       "Static booking and marketing platform for a braiding studio, integrating a dynamic service catalog, image galleries, and SMTP-backed contact workflows within a modern Next.js web experience.",
+> 31 |     tech: ["NextJS", "TypeScript", "R" "Tailwind CSS"],
+     |                                        ^^^^^^^^^^^^^^
+  32 |     image: "/images/projects/Project6.png",
+  33 |     github: "https://github.com/yourusername/traffic-ai",
+  34 |     external: "https://your-demo-link.com",
+
+Expected ',', got 'string literal ("Tailwind CSS", "Tailwind CSS")'
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:48:02.325] Browser ERROR   ./app/data/projects.ts:31:40
+Parsing ecmascript source code failed
+  29 |     description:
+  30 |       "Static booking and marketing platform for a braiding studio, integrating a dynamic service catalog, image galleries, and SMTP-backed contact workflows within a modern Next.js web experience.",
+> 31 |     tech: ["NextJS", "TypeScript", "R" "Tailwind CSS"],
+     |                                        ^^^^^^^^^^^^^^
+  32 |     image: "/images/projects/Project6.png",
+  33 |     github: "https://github.com/yourusername/traffic-ai",
+  34 |     external: "https://your-demo-link.com",
+
+Expected ',', got 'string literal ("Tailwind CSS", "Tailwind CSS")'
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:48:02.325] Browser ERROR   ./app/data/projects.ts:31:40
+Parsing ecmascript source code failed
+  29 |     description:
+  30 |       "Static booking and marketing platform for a braiding studio, integrating a dynamic service catalog, image galleries, and SMTP-backed contact workflows within a modern Next.js web experience.",
+> 31 |     tech: ["NextJS", "TypeScript", "R" "Tailwind CSS"],
+     |                                        ^^^^^^^^^^^^^^
+  32 |     image: "/images/projects/Project6.png",
+  33 |     github: "https://github.com/yourusername/traffic-ai",
+  34 |     external: "https://your-demo-link.com",
+
+Expected ',', got 'string literal ("Tailwind CSS", "Tailwind CSS")'
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:48:02.325] Browser ERROR   ./app/data/projects.ts:31:40
+Parsing ecmascript source code failed
+  29 |     description:
+  30 |       "Static booking and marketing platform for a braiding studio, integrating a dynamic service catalog, image galleries, and SMTP-backed contact workflows within a modern Next.js web experience.",
+> 31 |     tech: ["NextJS", "TypeScript", "R" "Tailwind CSS"],
+     |                                        ^^^^^^^^^^^^^^
+  32 |     image: "/images/projects/Project6.png",
+  33 |     github: "https://github.com/yourusername/traffic-ai",
+  34 |     external: "https://your-demo-link.com",
+
+Expected ',', got 'string literal ("Tailwind CSS", "Tailwind CSS")'
+
+Import trace:
+  Server Component:
+    ./app/data/projects.ts
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[00:48:02.440] Server  LOG     ✓ Compiled in 16ms
+[00:59:40.570] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:59:40.734] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:59:40.734] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:59:40.734] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:59:40.734] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:59:40.734] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:59:40.734] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:02:34.755] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:02:34.927] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:02:34.927] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:02:34.927] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:02:34.927] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:02:34.927] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:02:34.927] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:14:32.478] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:14:32.605] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:14:32.605] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:14:32.605] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:14:33.630] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:14:33.630] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:14:33.630] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:19:05.213] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:05.356] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:19:05.356] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:19:05.356] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:19:05.356] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:19:05.356] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:19:05.356] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:37:57.296] Server  LOG     ✓ Compiled in 25ms
+[01:37:57.399] Browser ERROR   ./components/projects/ProjectCard.tsx:3:10
+Ecmascript file had an error
+  1 | import Image from "next/image";
+  2 | import { FiGithub, FiExternalLink } from "react-icons/fi";
+> 3 | import { useState } from "react";
+    |          ^^^^^^^^
+  4 | import type { Project } from "@/app/types/project";
+  5 |
+  6 | type Props = {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/projects/ProjectCard.tsx
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[01:37:58.324] Browser ERROR   ./components/projects/ProjectCard.tsx:3:10
+Ecmascript file had an error
+  1 | import Image from "next/image";
+  2 | import { FiGithub, FiExternalLink } from "react-icons/fi";
+> 3 | import { useState } from "react";
+    |          ^^^^^^^^
+  4 | import type { Project } from "@/app/types/project";
+  5 |
+  6 | type Props = {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/projects/ProjectCard.tsx
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[01:37:58.324] Browser ERROR   ./components/projects/ProjectCard.tsx:3:10
+Ecmascript file had an error
+  1 | import Image from "next/image";
+  2 | import { FiGithub, FiExternalLink } from "react-icons/fi";
+> 3 | import { useState } from "react";
+    |          ^^^^^^^^
+  4 | import type { Project } from "@/app/types/project";
+  5 |
+  6 | type Props = {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/projects/ProjectCard.tsx
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[01:37:58.324] Browser ERROR   ./components/projects/ProjectCard.tsx:3:10
+Ecmascript file had an error
+  1 | import Image from "next/image";
+  2 | import { FiGithub, FiExternalLink } from "react-icons/fi";
+> 3 | import { useState } from "react";
+    |          ^^^^^^^^
+  4 | import type { Project } from "@/app/types/project";
+  5 |
+  6 | type Props = {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/projects/ProjectCard.tsx
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[01:37:58.324] Browser ERROR   ./components/projects/ProjectCard.tsx:3:10
+Ecmascript file had an error
+  1 | import Image from "next/image";
+  2 | import { FiGithub, FiExternalLink } from "react-icons/fi";
+> 3 | import { useState } from "react";
+    |          ^^^^^^^^
+  4 | import type { Project } from "@/app/types/project";
+  5 |
+  6 | type Props = {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/projects/ProjectCard.tsx
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[01:37:58.324] Browser ERROR   ./components/projects/ProjectCard.tsx:3:10
+Ecmascript file had an error
+  1 | import Image from "next/image";
+  2 | import { FiGithub, FiExternalLink } from "react-icons/fi";
+> 3 | import { useState } from "react";
+    |          ^^^^^^^^
+  4 | import type { Project } from "@/app/types/project";
+  5 |
+  6 | type Props = {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/projects/ProjectCard.tsx
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[01:37:58.324] Browser ERROR   ./components/projects/ProjectCard.tsx:3:10
+Ecmascript file had an error
+  1 | import Image from "next/image";
+  2 | import { FiGithub, FiExternalLink } from "react-icons/fi";
+> 3 | import { useState } from "react";
+    |          ^^^^^^^^
+  4 | import type { Project } from "@/app/types/project";
+  5 |
+  6 | type Props = {
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./components/projects/ProjectCard.tsx
+    ./components/projects/ProjectsSection.tsx
+    ./app/page.tsx
+[01:40:57.124] Server  LOG     ✓ Compiled in 72ms
+[01:41:19.578] Server  ERROR   ⨯ Error: Could not find the module "[project]/components/projects/ProjectCard.tsx#default" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+[01:41:19.668] Server  ERROR   ⨯ Error: Could not find the module "[project]/components/projects/ProjectCard.tsx#default" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+[01:41:19.756] Server  ERROR   ⨯ Error: Could not find the module "[project]/components/projects/ProjectCard.tsx#default" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+[01:41:19.891] Server  ERROR   ⨯ Error: Could not find the module "[project]/components/projects/ProjectCard.tsx#default" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+[01:41:19.970] Server  ERROR   ⨯ Error: Could not find the module "[project]/components/projects/ProjectCard.tsx#default" in the React Client Manifest. This is probably a bug in the React Server Components bundler.
+[01:41:19.974] Server  LOG     ✓ Compiled in 15ms
+[01:42:43.777] Server  LOG     ✓ Compiled in 45ms
+[01:42:43.793] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.794] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.794] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.794] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.794] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.794] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.795] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.795] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.797] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.798] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.799] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.800] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.800] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:43.800] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:42:44.226] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:44.327] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:44.344] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:44.360] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:44.376] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:44.378] Browser WARN    Image with src "/images/projects/Project.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:42:44.378] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:44.378] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:44.378] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:44.378] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:44.378] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:44.385] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:44.392] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:42:45.329] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.329] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.330] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.330] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.330] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.330] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.330] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:45.330] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:42:54.394] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:45:43.030] Server  WARN    Error: Route "/projects/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:45:43.048] Server  WARN    Error: Route "/projects/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:45:51.410] Server  WARN    Error: Route "/projects/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:45:59.398] Server  WARN    Error: Route "/projects/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:46:17.133] Server  WARN    Error: Route "/projects/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:47:34.311] Server  WARN    Error: Route "/projects/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:47:34.415] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:47:34.613] Browser ERROR   uncaughtError: TypeError: Failed to execute 'measure' on 'Performance': '​ProjectDetailPage' cannot have a negative time stamp.
+[01:47:36.724] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:47:36.724] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:47:36.724] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:47:37.537] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:47:37.660] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:47:45.683] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:47:46.831] Server  WARN    Error: Route "/projects/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:49:17.246] Server  LOG     ✓ Compiled in 81ms
+[01:49:33.043] Server  WARN    Error: Route "/projects/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:49:43.395] Server  WARN    Error: Route "/projects/[id]" used `params.id`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[01:49:43.501] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:49:43.698] Browser ERROR   uncaughtError: TypeError: Failed to execute 'measure' on 'Performance': '​ProjectDetailPage' cannot have a negative time stamp.
+[01:52:36.263] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/chart.png" "received" null
+[01:52:43.879] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/hart.png" "received" null
+[01:52:44.779] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/Chart.png" "received" null
+[01:52:52.587] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/Chart.png" "received" null
+[01:52:52.674] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:52:52.786] Browser WARN    Image with src "/images/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:53:18.469] Server  ERROR   ⨯ "The requested resource isn't a valid image for" "/images/projectsChart.png" "received" null
+[01:53:19.841] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:58:48.320] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:48.430] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:05:02.811] Server  LOG     ✓ Compiled in 64ms
+[02:07:09.719] Server  LOG     ✓ Compiled in 17ms
+[02:07:10.114] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:07:10.224] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:10:24.073] Server  LOG     ✓ Compiled in 29ms
+[02:10:24.328] Browser ERROR   ./app/projects/[id]/page.tsx:126:55
+Parsing ecmascript source code failed
+  124 |               <code className="text-emerald-300/
+  125 |
+> 126 |       <div className="rounded-2xl border border-white/10 bg-slate-900/40 p-8 backdrop-blur">
+      |                                                       ^^
+  127 |         <h2 className="text-lg font-semibold text-slate-100 mb-6">
+  128 |           Tech Stack
+  129 |         </h2>
+
+Expected '</', got 'numeric literal (10, 10)'
+[02:10:24.328] Browser ERROR   ./app/projects/[id]/page.tsx:126:55
+Parsing ecmascript source code failed
+  124 |               <code className="text-emerald-300/
+  125 |
+> 126 |       <div className="rounded-2xl border border-white/10 bg-slate-900/40 p-8 backdrop-blur">
+      |                                                       ^^
+  127 |         <h2 className="text-lg font-semibold text-slate-100 mb-6">
+  128 |           Tech Stack
+  129 |         </h2>
+
+Expected '</', got 'numeric literal (10, 10)'
+[02:10:24.328] Browser ERROR   ./app/projects/[id]/page.tsx:126:55
+Parsing ecmascript source code failed
+  124 |               <code className="text-emerald-300/
+  125 |
+> 126 |       <div className="rounded-2xl border border-white/10 bg-slate-900/40 p-8 backdrop-blur">
+      |                                                       ^^
+  127 |         <h2 className="text-lg font-semibold text-slate-100 mb-6">
+  128 |           Tech Stack
+  129 |         </h2>
+
+Expected '</', got 'numeric literal (10, 10)'
+[02:10:24.328] Browser ERROR   ./app/projects/[id]/page.tsx:126:55
+Parsing ecmascript source code failed
+  124 |               <code className="text-emerald-300/
+  125 |
+> 126 |       <div className="rounded-2xl border border-white/10 bg-slate-900/40 p-8 backdrop-blur">
+      |                                                       ^^
+  127 |         <h2 className="text-lg font-semibold text-slate-100 mb-6">
+  128 |           Tech Stack
+  129 |         </h2>
+
+Expected '</', got 'numeric literal (10, 10)'
+[02:10:24.328] Browser ERROR   ./app/projects/[id]/page.tsx:126:55
+Parsing ecmascript source code failed
+  124 |               <code className="text-emerald-300/
+  125 |
+> 126 |       <div className="rounded-2xl border border-white/10 bg-slate-900/40 p-8 backdrop-blur">
+      |                                                       ^^
+  127 |         <h2 className="text-lg font-semibold text-slate-100 mb-6">
+  128 |           Tech Stack
+  129 |         </h2>
+
+Expected '</', got 'numeric literal (10, 10)'
+[02:10:24.328] Browser ERROR   ./app/projects/[id]/page.tsx:126:55
+Parsing ecmascript source code failed
+  124 |               <code className="text-emerald-300/
+  125 |
+> 126 |       <div className="rounded-2xl border border-white/10 bg-slate-900/40 p-8 backdrop-blur">
+      |                                                       ^^
+  127 |         <h2 className="text-lg font-semibold text-slate-100 mb-6">
+  128 |           Tech Stack
+  129 |         </h2>
+
+Expected '</', got 'numeric literal (10, 10)'
+[02:10:24.328] Browser ERROR   ./app/projects/[id]/page.tsx:126:55
+Parsing ecmascript source code failed
+  124 |               <code className="text-emerald-300/
+  125 |
+> 126 |       <div className="rounded-2xl border border-white/10 bg-slate-900/40 p-8 backdrop-blur">
+      |                                                       ^^
+  127 |         <h2 className="text-lg font-semibold text-slate-100 mb-6">
+  128 |           Tech Stack
+  129 |         </h2>
+
+Expected '</', got 'numeric literal (10, 10)'
+[02:11:21.849] Browser WARN    Image with src "/images/projects/Project.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:11:28.897] Browser WARN    Image with src "/images/projects/Project.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[02:11:31.256] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:17:11.952] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:17:12.325] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:17:43.344] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:17:43.384] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:17:43.411] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:17:44.324] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:23.722] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:23.722] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:23.722] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:23.722] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:23.722] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:18:23.722] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:31:27.430] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:31:27.604] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:31:27.604] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:31:27.604] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:31:27.604] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:31:27.604] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:31:27.604] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:31:32.586] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:32:48.621] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:32:48.733] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:33:18.001] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:33:18.108] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:34:10.536] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:34:11.325] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:34:27.671] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:34:27.775] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:34:46.768] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:34:47.230] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:34:53.421] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:34:53.528] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:36:14.846] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:36:14.951] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:37:54.965] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:37:54.965] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:37:54.965] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:37:54.965] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:37:54.965] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:37:54.965] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:37:54.965] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:37:58.316] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:37:58.424] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:37:58.933] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:44:40.156] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:44:40.280] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:44:42.731] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:44:42.837] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:46:15.248] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:46:15.248] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:46:15.248] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:46:15.248] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:46:15.248] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:46:15.248] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:09:49.997] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:09:50.119] Browser WARN    Image with src "/images/projects/Chart.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:09:53.531] Browser WARN    Image with src "/images/Photo1.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:09:53.531] Browser WARN    Image with src "/images/projects/Project4.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:09:53.531] Browser WARN    Image with src "/images/projects/Project.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:09:53.531] Browser WARN    Image with src "/images/projects/Project5.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:09:53.531] Browser WARN    Image with src "/images/projects/Project8.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[03:09:53.531] Browser WARN    Image with src "/images/projects/Project6.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
