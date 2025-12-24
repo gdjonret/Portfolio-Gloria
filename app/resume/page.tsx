@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const RESUME_FILE_PATH = "/docs/Gloria_Djonret_Resume.pdf";
+const RESUME_FILE_PATH = "/docs/Resume-Gloria_Djonret.pdf";
 
 export default function ResumePage() {
   return (
@@ -10,27 +10,9 @@ export default function ResumePage() {
           Resume
         </p>
 
-        <div className="space-y-3">
-          <h1 className="text-4xl font-semibold tracking-tight">Gloria Djonret</h1>
-          <p className="max-w-3xl text-base md:text-lg text-slate-300 leading-relaxed">
-            Full-stack software engineer focused on reliable systems, modern product experiences,
-            and pragmatic delivery. Open the PDF or download it directly below.
-          </p>
-        </div>
+      
 
-        <div className="flex flex-wrap items-center gap-4 text-sm text-emerald-200/80">
-          <Link href="mailto:hello@gloriadjonret.com" className="underline-offset-4 hover:underline">
-            hello@gloriadjonret.com
-          </Link>
-          <span aria-hidden="true">•</span>
-          <Link
-            href="https://github.com/gdjonret"
-            target="_blank"
-            className="underline-offset-4 hover:underline"
-          >
-            github.com/gdjonret
-          </Link>
-        </div>
+
 
         <div className="flex flex-wrap gap-3">
           <Link
