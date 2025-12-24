@@ -35,7 +35,7 @@ export const projects: Project[] = [
     description:
       "Reservation platform with separate public/admin portals, role-based access, and operational workflows for reception and management.",
     tech: ["React", "Spring Boot", "Flyway", "PostgreSQL"],
-    image: "/images/projects/Project4.png",
+    image: "/images/projects/Project8.png",
     github: "https://github.com/yourusername/hotel",
     // external: "https://your-demo-link.com",
     showDetailsButton: true,
@@ -48,7 +48,7 @@ export const projects: Project[] = [
     tech: ["NextJS", "TypeScript", "React", "Tailwind CSS"],
     image: "/images/projects/Project6.png",
     github: "https://github.com/yourusername/traffic-ai",
-    external: "https://your-demo-link.com",
+    //external: "https://your-demo-link.com",
   },
   {
     id: "faculty-profile-website",
@@ -68,6 +68,6 @@ export const projects: Project[] = [
     tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
     image: "/images/projects/Project8.png",
     github: "https://github.com/gdjonret/Infrastructure-Website.git",
-    external: "https://your-demo-link.com",
+   // external: "https://your-demo-link.com",
   },
 ];
