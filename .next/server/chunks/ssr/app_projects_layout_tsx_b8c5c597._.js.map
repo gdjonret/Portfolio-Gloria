@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../app/projects/layout.tsx"],"sourcesContent":["import type { ReactNode } from \"react\";\n\nexport default function ProjectsLayout({ children }: { children: ReactNode }) {\n  return children;\n}\n"],"names":[],"mappings":"uCAEe,SAAS,EAAe,UAAE,CAAQ,CAA2B,EAC1E,OAAO,CACT"}
