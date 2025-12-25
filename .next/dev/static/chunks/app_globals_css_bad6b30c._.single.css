@@ -561,10 +561,6 @@
     height: calc(var(--spacing) * 24);
   }
 
-  .h-64 {
-    height: calc(var(--spacing) * 64);
-  }
-
   .h-\[70vh\] {
     height: 70vh;
   }
@@ -826,6 +822,10 @@
     column-gap: calc(var(--spacing) * 4);
   }
 
+  .gap-y-1 {
+    row-gap: calc(var(--spacing) * 1);
+  }
+
   .gap-y-2 {
     row-gap: calc(var(--spacing) * 2);
   }
@@ -913,16 +913,6 @@
     }
   }
 
-  .border-teal-300\/20 {
-    border-color: #46ecd533;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .border-teal-300\/20 {
-      border-color: color-mix(in oklab, var(--color-teal-300) 20%, transparent);
-    }
-  }
-
   .border-teal-300\/40 {
     border-color: #46ecd566;
   }
@@ -970,6 +960,16 @@
   @supports (color: color-mix(in lab, red, red)) {
     .border-white\/20 {
       border-color: color-mix(in oklab, var(--color-white) 20%, transparent);
+    }
+  }
+
+  .border-white\/30 {
+    border-color: #ffffff4d;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .border-white\/30 {
+      border-color: color-mix(in oklab, var(--color-white) 30%, transparent);
     }
   }
 
@@ -1059,16 +1059,6 @@
     background-color: var(--color-teal-300);
   }
 
-  .bg-teal-300\/5 {
-    background-color: #46ecd50d;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .bg-teal-300\/5 {
-      background-color: color-mix(in oklab, var(--color-teal-300) 5%, transparent);
-    }
-  }
-
   .bg-teal-300\/20 {
     background-color: #46ecd533;
   }
@@ -1077,6 +1067,10 @@
     .bg-teal-300\/20 {
       background-color: color-mix(in oklab, var(--color-teal-300) 20%, transparent);
     }
+  }
+
+  .bg-white {
+    background-color: var(--color-white);
   }
 
   .bg-white\/5 {
@@ -1096,6 +1090,16 @@
   @supports (color: color-mix(in lab, red, red)) {
     .bg-white\/10 {
       background-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+    }
+  }
+
+  .bg-white\/15 {
+    background-color: #ffffff26;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .bg-white\/15 {
+      background-color: color-mix(in oklab, var(--color-white) 15%, transparent);
     }
   }
 
@@ -1272,6 +1276,10 @@
     padding-bottom: calc(var(--spacing) * 16);
   }
 
+  .pl-4 {
+    padding-left: calc(var(--spacing) * 4);
+  }
+
   .pl-5 {
     padding-left: calc(var(--spacing) * 5);
   }
@@ -1394,6 +1402,11 @@
     letter-spacing: .4em;
   }
 
+  .tracking-\[0\.25em\] {
+    --tw-tracking: .25em;
+    letter-spacing: .25em;
+  }
+
   .tracking-\[0\.35em\] {
     --tw-tracking: .35em;
     letter-spacing: .35em;
@@ -1486,16 +1499,32 @@
     color: var(--color-slate-500);
   }
 
-  .text-teal-200 {
-    color: var(--color-teal-200);
-  }
-
   .text-teal-300 {
     color: var(--color-teal-300);
   }
 
   .text-white {
     color: var(--color-white);
+  }
+
+  .text-white\/80 {
+    color: #fffc;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .text-white\/80 {
+      color: color-mix(in oklab, var(--color-white) 80%, transparent);
+    }
+  }
+
+  .text-white\/90 {
+    color: #ffffffe6;
+  }
+
+  @supports (color: color-mix(in lab, red, red)) {
+    .text-white\/90 {
+      color: color-mix(in oklab, var(--color-white) 90%, transparent);
+    }
   }
 
   .uppercase {
@@ -1599,20 +1628,14 @@
   }
 
   @media (hover: hover) {
-    .hover\:border-emerald-300:hover {
-      border-color: var(--color-emerald-300);
+    .group-hover\:text-white:is(:where(.group):hover *) {
+      color: var(--color-white);
     }
   }
 
   @media (hover: hover) {
-    .hover\:border-teal-300\/40:hover {
-      border-color: #46ecd566;
-    }
-
-    @supports (color: color-mix(in lab, red, red)) {
-      .hover\:border-teal-300\/40:hover {
-        border-color: color-mix(in oklab, var(--color-teal-300) 40%, transparent);
-      }
+    .hover\:border-emerald-300:hover {
+      border-color: var(--color-emerald-300);
     }
   }
 
@@ -1647,6 +1670,18 @@
   }
 
   @media (hover: hover) {
+    .hover\:border-white\/50:hover {
+      border-color: #ffffff80;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      .hover\:border-white\/50:hover {
+        border-color: color-mix(in oklab, var(--color-white) 50%, transparent);
+      }
+    }
+  }
+
+  @media (hover: hover) {
     .hover\:bg-emerald-300\/10:hover {
       background-color: #5ee9b51a;
     }
@@ -1654,18 +1689,6 @@
     @supports (color: color-mix(in lab, red, red)) {
       .hover\:bg-emerald-300\/10:hover {
         background-color: color-mix(in oklab, var(--color-emerald-300) 10%, transparent);
-      }
-    }
-  }
-
-  @media (hover: hover) {
-    .hover\:bg-teal-300\/10:hover {
-      background-color: #46ecd51a;
-    }
-
-    @supports (color: color-mix(in lab, red, red)) {
-      .hover\:bg-teal-300\/10:hover {
-        background-color: color-mix(in oklab, var(--color-teal-300) 10%, transparent);
       }
     }
   }
@@ -1690,6 +1713,18 @@
     @supports (color: color-mix(in lab, red, red)) {
       .hover\:bg-white\/10:hover {
         background-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+      }
+    }
+  }
+
+  @media (hover: hover) {
+    .hover\:bg-white\/15:hover {
+      background-color: #ffffff26;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      .hover\:bg-white\/15:hover {
+        background-color: color-mix(in oklab, var(--color-white) 15%, transparent);
       }
     }
   }
@@ -1778,6 +1813,12 @@
   @supports (color: color-mix(in lab, red, red)) {
     .active\:bg-white\/10:active {
       background-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+    }
+  }
+
+  @media (min-width: 40rem) {
+    .sm\:mt-5 {
+      margin-top: calc(var(--spacing) * 5);
     }
   }
 
@@ -1999,10 +2040,8 @@
   }
 
   @media (min-width: 48rem) {
-    @media (min-width: 48rem) {
-      .md\:md\:mt-12 {
-        margin-top: calc(var(--spacing) * 12);
-      }
+    .md\:mt-6 {
+      margin-top: calc(var(--spacing) * 6);
     }
   }
 
@@ -2063,12 +2102,6 @@
   @media (min-width: 48rem) {
     .md\:h-\[380px\] {
       height: 380px;
-    }
-  }
-
-  @media (min-width: 48rem) {
-    .md\:h-\[420px\] {
-      height: 420px;
     }
   }
 
@@ -2201,14 +2234,6 @@
     .md\:text-lg {
       font-size: var(--text-lg);
       line-height: var(--tw-leading, var(--text-lg--line-height));
-    }
-  }
-
-  @media (min-width: 40rem) {
-    @media (min-width: 48rem) {
-      .sm\:md\:mt-10 {
-        margin-top: calc(var(--spacing) * 10);
-      }
     }
   }
 

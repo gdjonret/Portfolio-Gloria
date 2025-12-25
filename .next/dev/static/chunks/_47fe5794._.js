@@ -182,9 +182,9 @@ function ExperienceItem({ active }) {
                 columnNumber: 7
             }, this),
             active.tech && active.tech.length > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "mt-6 md:mt-8 sm:md:mt-10 md:md:mt-12 flex flex-wrap gap-2",
+                className: "mt-6 md:mt-8 flex flex-wrap gap-2 pl-6",
                 children: active.tech.map((t)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        className: "rounded-lg border border-teal-300/20 bg-teal-300/5 px-4 py-1.5 text-xs font-medium text-teal-200 hover:bg-teal-300/10 hover:border-teal-300/40 transition-all duration-200 cursor-default",
+                        className: "rounded-lg border border-white/30 bg-white/10 px-4 py-1.5 text-xs font-medium text-white/90 hover:bg-white/15 hover:border-white/50 transition-all duration-200 cursor-default",
                         children: t
                     }, t, false, {
                         fileName: "[project]/components/experience/ExperienceItem.tsx",

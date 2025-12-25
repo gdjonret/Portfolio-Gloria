@@ -50,11 +50,11 @@ export default function ExperienceItem({ active }: Props) {
 
       {/* Tech stack */}
       {active.tech && active.tech.length > 0 && (
-        <div className="mt-6 md:mt-8 sm:md:mt-10 md:md:mt-12 flex flex-wrap gap-2">
+        <div className="mt-6 md:mt-8 flex flex-wrap gap-2 pl-6">
           {active.tech.map((t) => (
             <span
               key={t}
-              className="rounded-lg border border-teal-300/20 bg-teal-300/5 px-4 py-1.5 text-xs font-medium text-teal-200 hover:bg-teal-300/10 hover:border-teal-300/40 transition-all duration-200 cursor-default"
+              className="rounded-lg border border-white/30 bg-white/10 px-4 py-1.5 text-xs font-medium text-white/90 hover:bg-white/15 hover:border-white/50 transition-all duration-200 cursor-default"
             >
               {t}
             </span>
