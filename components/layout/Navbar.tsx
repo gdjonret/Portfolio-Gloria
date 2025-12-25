@@ -32,6 +32,11 @@ export default function Navbar() {
             </Link>
           </li>
           <li>
+            <Link href="/#contact" className="hover:text-rose-300 transition-colors">
+              Contact
+            </Link>
+          </li>
+          <li>
             <Link
               href="/resume"
               className="rounded-md border border-white/20 px-4 py-2 text-sm font-medium transition hover:bg-white/10 hover:border-white/40"
@@ -106,11 +111,20 @@ export default function Navbar() {
             </li>
             <li>
               <Link
-                href="/work"
+                href="/#work"
                 onClick={closeMenu}
                 className="block py-2 hover:text-rose-300 transition-colors"
               >
                 Work
+              </Link>
+            </li>
+            <li>
+              <Link
+                href="/#contact"
+                onClick={closeMenu}
+                className="block py-2 hover:text-rose-300 transition-colors"
+              >
+                Contact
               </Link>
             </li>
             <li className="mt-4">

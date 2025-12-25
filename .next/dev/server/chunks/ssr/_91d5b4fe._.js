@@ -247,27 +247,27 @@ function ExperienceSection() {
         className: "mx-auto max-w-6xl px-6 py-16 sm:py-24 md:py-35 sm:px-10 lg:px-12",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex items-center gap-4 sm:gap-6",
+                className: "flex items-center gap-4",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                        className: "text-2xl sm:text-3xl md:text-4xl font-semibold tracking-tight text-teal-300",
-                        children: "My Work Experiences"
+                        className: "text-2xl font-semibold text-slate-100",
+                        children: "My experiences"
                     }, void 0, false, {
                         fileName: "[project]/components/experience/ExperienceSection.tsx",
-                        lineNumber: 19,
+                        lineNumber: 25,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "h-px flex-1 bg-gradient-to-r from-teal-300/40 via-white/15 to-transparent"
+                        className: "h-px flex-1 bg-white/10"
                     }, void 0, false, {
                         fileName: "[project]/components/experience/ExperienceSection.tsx",
-                        lineNumber: 22,
+                        lineNumber: 28,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/experience/ExperienceSection.tsx",
-                lineNumber: 18,
+                lineNumber: 24,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -293,18 +293,18 @@ function ExperienceSection() {
                                             children: item.companyShort ?? item.company
                                         }, item.id, false, {
                                             fileName: "[project]/components/experience/ExperienceSection.tsx",
-                                            lineNumber: 36,
+                                            lineNumber: 42,
                                             columnNumber: 19
                                         }, this);
                                     })
                                 }, void 0, false, {
                                     fileName: "[project]/components/experience/ExperienceSection.tsx",
-                                    lineNumber: 31,
+                                    lineNumber: 37,
                                     columnNumber: 13
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/experience/ExperienceSection.tsx",
-                                lineNumber: 30,
+                                lineNumber: 36,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -314,7 +314,7 @@ function ExperienceSection() {
                                         className: "absolute left-0 top-2 h-[calc(100%-1rem)] w-0.5 rounded-full bg-gradient-to-b from-teal-300/30 via-white/15 to-transparent"
                                     }, void 0, false, {
                                         fileName: "[project]/components/experience/ExperienceSection.tsx",
-                                        lineNumber: 58,
+                                        lineNumber: 64,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -334,7 +334,7 @@ function ExperienceSection() {
                                                         className: "absolute -left-1 top-1/2 h-10 w-1 -translate-y-1/2 rounded-full bg-teal-300"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/experience/ExperienceSection.tsx",
-                                                        lineNumber: 79,
+                                                        lineNumber: 85,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -342,31 +342,31 @@ function ExperienceSection() {
                                                         children: item.companyShort ?? item.company
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/experience/ExperienceSection.tsx",
-                                                        lineNumber: 82,
+                                                        lineNumber: 88,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, item.id, true, {
                                                 fileName: "[project]/components/experience/ExperienceSection.tsx",
-                                                lineNumber: 65,
+                                                lineNumber: 71,
                                                 columnNumber: 19
                                             }, this);
                                         })
                                     }, void 0, false, {
                                         fileName: "[project]/components/experience/ExperienceSection.tsx",
-                                        lineNumber: 60,
+                                        lineNumber: 66,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/experience/ExperienceSection.tsx",
-                                lineNumber: 56,
+                                lineNumber: 62,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/experience/ExperienceSection.tsx",
-                        lineNumber: 28,
+                        lineNumber: 34,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -375,18 +375,18 @@ function ExperienceSection() {
                             active: active
                         }, void 0, false, {
                             fileName: "[project]/components/experience/ExperienceSection.tsx",
-                            lineNumber: 97,
+                            lineNumber: 103,
                             columnNumber: 21
                         }, this) : null
                     }, void 0, false, {
                         fileName: "[project]/components/experience/ExperienceSection.tsx",
-                        lineNumber: 96,
+                        lineNumber: 102,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/experience/ExperienceSection.tsx",
-                lineNumber: 25,
+                lineNumber: 31,
                 columnNumber: 7
             }, this)
         ]

@@ -7,7 +7,7 @@ export const projects: Project[] = [
     title: "Hotel Reservation Platform",
     description:
       "Hotel reservation platform integrating a modern guest booking experience with an admin dashboard for real-time hotel management.",
-    tech: ["React", "Spring Boot", "PostgreSQL", "Computer Vision"],
+    tech: ["React", "Spring Boot", "PostgreSQL", "HTML/CSS","EJS"],
     image: "/images/projects/Project.png",
     github: "https://github.com/gdjonret/Hotel-Website.git",
     // external: "https://your-demo-link.com",
@@ -35,8 +35,8 @@ export const projects: Project[] = [
     description:
       "Reservation platform with separate public/admin portals, role-based access, and operational workflows for reception and management.",
     tech: ["React", "Spring Boot", "Flyway", "PostgreSQL"],
-    image: "/images/projects/Project8.png",
-    github: "https://github.com/yourusername/hotel",
+    image: "/images/projects/Project4.png",
+    github: "https://github.com/gdjonret/Admin-Patform-Hotel.git",
     // external: "https://your-demo-link.com",
     showDetailsButton: true,
   },
@@ -47,7 +47,7 @@ export const projects: Project[] = [
       "Static booking and marketing platform for a braiding studio, integrating a dynamic service catalog, image galleries, and SMTP-backed contact workflows within a modern Next.js web experience.",
     tech: ["NextJS", "TypeScript", "React", "Tailwind CSS"],
     image: "/images/projects/Project6.png",
-    github: "https://github.com/yourusername/traffic-ai",
+    github: "https://github.com/gdjonret/Braids-website.git",
     //external: "https://your-demo-link.com",
   },
   {

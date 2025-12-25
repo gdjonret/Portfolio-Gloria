@@ -15,11 +15,17 @@ export default function ExperienceSection() {
       className="mx-auto max-w-6xl px-6 py-16 sm:py-24 md:py-35 sm:px-10 lg:px-12"
     >
       {/* Title row */}
-      <div className="flex items-center gap-4 sm:gap-6">
+      {/* <div className="flex items-center gap-4 sm:gap-6">
         <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold tracking-tight text-teal-300">
           My Work Experiences
         </h2>
         <div className="h-px flex-1 bg-gradient-to-r from-teal-300/40 via-white/15 to-transparent" />
+      </div> */}
+      <div className="flex items-center gap-4">
+        <h2 className="text-2xl font-semibold text-slate-100">
+          My experiences
+        </h2>
+        <div className="h-px flex-1 bg-white/10" />
       </div>
 
       <div className="mt-8 sm:mt-12 md:mt-16 grid grid-cols-12 gap-8 sm:gap-10 md:gap-12 lg:gap-16">
