@@ -10,7 +10,7 @@ export const projects: Project[] = [
     tech: ["React", "Spring Boot", "PostgreSQL", "HTML/CSS","EJS"],
     image: "/images/projects/Project.png",
     github: "https://github.com/gdjonret/Hotel-Website.git",
-    // external: "https://your-demo-link.com",
+     external: "https://www.hotel-leprocess.com/",
     showDetailsButton: true,
     techStack: {
       backend: [
