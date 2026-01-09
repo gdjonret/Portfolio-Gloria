@@ -395,8 +395,6 @@ function ProjectCard({ project, reverse = false }) {
                             }, this),
                             project.showTemplateButton && project.templateUrl && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                 href: project.templateUrl,
-                                target: "_blank",
-                                rel: "noopener noreferrer",
                                 className: "rounded-md border border-emerald-400/40 px-4 py-2 text-sm font-medium text-emerald-200 transition hover:border-emerald-400 hover:bg-emerald-400/10 hover:text-emerald-100",
                                 children: "View Template"
                             }, void 0, false, {
@@ -418,12 +416,12 @@ function ProjectCard({ project, reverse = false }) {
                                             "aria-hidden": "true"
                                         }, void 0, false, {
                                             fileName: "[project]/components/projects/ProjectCard.tsx",
-                                            lineNumber: 124,
+                                            lineNumber: 122,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/ProjectCard.tsx",
-                                        lineNumber: 117,
+                                        lineNumber: 115,
                                         columnNumber: 15
                                     }, this),
                                     project.external && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -437,18 +435,18 @@ function ProjectCard({ project, reverse = false }) {
                                             "aria-hidden": "true"
                                         }, void 0, false, {
                                             fileName: "[project]/components/projects/ProjectCard.tsx",
-                                            lineNumber: 135,
+                                            lineNumber: 133,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/ProjectCard.tsx",
-                                        lineNumber: 128,
+                                        lineNumber: 126,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/ProjectCard.tsx",
-                                lineNumber: 115,
+                                lineNumber: 113,
                                 columnNumber: 11
                             }, this)
                         ]
