@@ -58,6 +58,7 @@
   :root, :host {
     --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --color-emerald-100: #d0fae5;
     --color-emerald-200: #a4f4cf;
     --color-emerald-300: #5ee9b5;
     --color-emerald-400: #00d294;
@@ -122,6 +123,7 @@
 
   @supports (color: lab(0% 0 0)) {
     :root, :host {
+      --color-emerald-100: lab(94.9004% -17.0769 5.63836);
       --color-emerald-200: lab(90.2247% -31.039 9.47084);
       --color-emerald-300: lab(83.9203% -48.7124 13.8849);
       --color-emerald-400: lab(75.0771% -60.7313 19.4147);
@@ -822,10 +824,6 @@
     column-gap: calc(var(--spacing) * 4);
   }
 
-  .gap-y-1 {
-    row-gap: calc(var(--spacing) * 1);
-  }
-
   .gap-y-2 {
     row-gap: calc(var(--spacing) * 2);
   }
@@ -1069,10 +1067,6 @@
     }
   }
 
-  .bg-white {
-    background-color: var(--color-white);
-  }
-
   .bg-white\/5 {
     background-color: #ffffff0d;
   }
@@ -1090,16 +1084,6 @@
   @supports (color: color-mix(in lab, red, red)) {
     .bg-white\/10 {
       background-color: color-mix(in oklab, var(--color-white) 10%, transparent);
-    }
-  }
-
-  .bg-white\/15 {
-    background-color: #ffffff26;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .bg-white\/15 {
-      background-color: color-mix(in oklab, var(--color-white) 15%, transparent);
     }
   }
 
@@ -1276,10 +1260,6 @@
     padding-bottom: calc(var(--spacing) * 16);
   }
 
-  .pl-4 {
-    padding-left: calc(var(--spacing) * 4);
-  }
-
   .pl-5 {
     padding-left: calc(var(--spacing) * 5);
   }
@@ -1402,11 +1382,6 @@
     letter-spacing: .4em;
   }
 
-  .tracking-\[0\.25em\] {
-    --tw-tracking: .25em;
-    letter-spacing: .25em;
-  }
-
   .tracking-\[0\.35em\] {
     --tw-tracking: .35em;
     letter-spacing: .35em;
@@ -1505,16 +1480,6 @@
 
   .text-white {
     color: var(--color-white);
-  }
-
-  .text-white\/80 {
-    color: #fffc;
-  }
-
-  @supports (color: color-mix(in lab, red, red)) {
-    .text-white\/80 {
-      color: color-mix(in oklab, var(--color-white) 80%, transparent);
-    }
   }
 
   .text-white\/90 {
@@ -1628,14 +1593,14 @@
   }
 
   @media (hover: hover) {
-    .group-hover\:text-white:is(:where(.group):hover *) {
-      color: var(--color-white);
+    .hover\:border-emerald-300:hover {
+      border-color: var(--color-emerald-300);
     }
   }
 
   @media (hover: hover) {
-    .hover\:border-emerald-300:hover {
-      border-color: var(--color-emerald-300);
+    .hover\:border-emerald-400:hover {
+      border-color: var(--color-emerald-400);
     }
   }
 
@@ -1694,6 +1659,18 @@
   }
 
   @media (hover: hover) {
+    .hover\:bg-emerald-400\/10:hover {
+      background-color: #00d2941a;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      .hover\:bg-emerald-400\/10:hover {
+        background-color: color-mix(in oklab, var(--color-emerald-400) 10%, transparent);
+      }
+    }
+  }
+
+  @media (hover: hover) {
     .hover\:bg-white\/5:hover {
       background-color: #ffffff0d;
     }
@@ -1730,14 +1707,14 @@
   }
 
   @media (hover: hover) {
-    .hover\:text-emerald-200:hover {
-      color: var(--color-emerald-200);
+    .hover\:text-emerald-100:hover {
+      color: var(--color-emerald-100);
     }
   }
 
   @media (hover: hover) {
-    .hover\:text-rose-300:hover {
-      color: var(--color-rose-300);
+    .hover\:text-emerald-200:hover {
+      color: var(--color-emerald-200);
     }
   }
 
@@ -1768,10 +1745,6 @@
   .focus\:ring-2:focus {
     --tw-ring-shadow: var(--tw-ring-inset, ) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
     box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
-  }
-
-  .focus\:ring-rose-300:focus {
-    --tw-ring-color: var(--color-rose-300);
   }
 
   .focus\:ring-white\/30:focus {
@@ -1823,12 +1796,6 @@
   @supports (color: color-mix(in lab, red, red)) {
     .active\:bg-white\/10:active {
       background-color: color-mix(in oklab, var(--color-white) 10%, transparent);
-    }
-  }
-
-  @media (min-width: 40rem) {
-    .sm\:mt-5 {
-      margin-top: calc(var(--spacing) * 5);
     }
   }
 
@@ -2046,12 +2013,6 @@
   @media (min-width: 48rem) {
     .md\:-mt-6 {
       margin-top: calc(var(--spacing) * -6);
-    }
-  }
-
-  @media (min-width: 48rem) {
-    .md\:mt-6 {
-      margin-top: calc(var(--spacing) * 6);
     }
   }
 

@@ -101,6 +101,17 @@ export default function ProjectCard({ project, reverse = false }: Props) {
             </Link>
           )}
 
+          {project.showTemplateButton && project.templateUrl && (
+            <a
+              href={project.templateUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-md border border-emerald-400/40 px-4 py-2 text-sm font-medium text-emerald-200 transition hover:border-emerald-400 hover:bg-emerald-400/10 hover:text-emerald-100"
+            >
+              View Template
+            </a>
+          )}
+
           <div className="flex items-center gap-4">
             {project.github && (
               <a

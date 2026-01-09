@@ -179,8 +179,10 @@ const projects = [
         ],
         image: "/images/projects/Project.png",
         github: "https://github.com/gdjonret/Hotel-Website.git",
-        // external: "https://your-demo-link.com",
+        external: "https://www.hotel-leprocess.com/",
         showDetailsButton: true,
+        showTemplateButton: true,
+        templateUrl: "https://hotel-template.gloria-djonret.com/",
         techStack: {
             backend: [
                 "Spring Boot",
@@ -391,6 +393,17 @@ function ProjectCard({ project, reverse = false }) {
                                 lineNumber: 96,
                                 columnNumber: 13
                             }, this),
+                            project.showTemplateButton && project.templateUrl && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                href: project.templateUrl,
+                                target: "_blank",
+                                rel: "noopener noreferrer",
+                                className: "rounded-md border border-emerald-400/40 px-4 py-2 text-sm font-medium text-emerald-200 transition hover:border-emerald-400 hover:bg-emerald-400/10 hover:text-emerald-100",
+                                children: "View Template"
+                            }, void 0, false, {
+                                fileName: "[project]/components/projects/ProjectCard.tsx",
+                                lineNumber: 105,
+                                columnNumber: 13
+                            }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "flex items-center gap-4",
                                 children: [
@@ -405,12 +418,12 @@ function ProjectCard({ project, reverse = false }) {
                                             "aria-hidden": "true"
                                         }, void 0, false, {
                                             fileName: "[project]/components/projects/ProjectCard.tsx",
-                                            lineNumber: 113,
+                                            lineNumber: 124,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/ProjectCard.tsx",
-                                        lineNumber: 106,
+                                        lineNumber: 117,
                                         columnNumber: 15
                                     }, this),
                                     project.external && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -424,18 +437,18 @@ function ProjectCard({ project, reverse = false }) {
                                             "aria-hidden": "true"
                                         }, void 0, false, {
                                             fileName: "[project]/components/projects/ProjectCard.tsx",
-                                            lineNumber: 124,
+                                            lineNumber: 135,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/ProjectCard.tsx",
-                                        lineNumber: 117,
+                                        lineNumber: 128,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/ProjectCard.tsx",
-                                lineNumber: 104,
+                                lineNumber: 115,
                                 columnNumber: 11
                             }, this)
                         ]

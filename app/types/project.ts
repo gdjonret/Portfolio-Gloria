@@ -8,6 +8,8 @@ export type Project = {
   github?: string;
   external?: string; // live demo / article
   showDetailsButton?: boolean;
+  showTemplateButton?: boolean;
+  templateUrl?: string;
   techStack?: {
     backend?: string[];
     frontend?: string[];

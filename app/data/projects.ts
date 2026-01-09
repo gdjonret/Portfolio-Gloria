@@ -12,6 +12,8 @@ export const projects: Project[] = [
     github: "https://github.com/gdjonret/Hotel-Website.git",
      external: "https://www.hotel-leprocess.com/",
     showDetailsButton: true,
+    showTemplateButton: true,
+    templateUrl: "https://hotel-template.gloria-djonret.com/",
     techStack: {
       backend: [
         "Spring Boot",

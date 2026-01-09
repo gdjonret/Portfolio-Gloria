@@ -35,8 +35,9 @@ const projects = [
         ],
         image: "/images/projects/Project.png",
         github: "https://github.com/gdjonret/Hotel-Website.git",
-        // external: "https://your-demo-link.com",
+        external: "https://www.hotel-leprocess.com/",
         showDetailsButton: true,
+        showTemplateButton: true,
         techStack: {
             backend: [
                 "Spring Boot",
