@@ -122,17 +122,26 @@ export default function ProjectCard({ project, reverse = false }: Props) {
                 <FiGithub className="text-xl" aria-hidden="true" />
               </a>
             )}
-            {project.external && (
-              <a
-                href={project.external}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-slate-300 hover:text-white transition"
-                aria-label="Live"
-              >
-                <FiExternalLink className="text-xl" aria-hidden="true" />
-              </a>
-            )}
+            {project.external &&
+              (project.external.startsWith("/") ? (
+                <Link
+                  href={project.external}
+                  className="text-slate-300 hover:text-white transition"
+                  aria-label="Live"
+                >
+                  <FiExternalLink className="text-xl" aria-hidden="true" />
+                </Link>
+              ) : (
+                <a
+                  href={project.external}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-slate-300 hover:text-white transition"
+                  aria-label="Live"
+                >
+                  <FiExternalLink className="text-xl" aria-hidden="true" />
+                </a>
+              ))}
           </div>
         </div>
       </div>

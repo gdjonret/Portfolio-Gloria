@@ -38,8 +38,8 @@ export const projects: Project[] = [
       "Reservation platform with separate public/admin portals, role-based access, and operational workflows for reception and management.",
     tech: ["React", "Spring Boot", "Flyway", "PostgreSQL"],
     image: "/images/projects/Project4.png",
-    github: "https://github.com/gdjonret/Admin-Patform-Hotel.git",
-    // external: "https://your-demo-link.com",
+    github: "https://github.com/gdjonret/Admin-Management-Hotel.git",
+    external: "/admin-demo",
     showDetailsButton: true,
   },
   {

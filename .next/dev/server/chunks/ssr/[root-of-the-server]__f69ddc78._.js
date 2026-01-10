@@ -213,8 +213,8 @@ const projects = [
             "PostgreSQL"
         ],
         image: "/images/projects/Project4.png",
-        github: "https://github.com/gdjonret/Admin-Patform-Hotel.git",
-        // external: "https://your-demo-link.com",
+        github: "https://github.com/gdjonret/Admin-Management-Hotel.git",
+        external: "/admin-demo",
         showDetailsButton: true
     },
     {
@@ -424,7 +424,23 @@ function ProjectCard({ project, reverse = false }) {
                                         lineNumber: 115,
                                         columnNumber: 15
                                     }, this),
-                                    project.external && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                    project.external && (project.external.startsWith("/") ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                        href: project.external,
+                                        className: "text-slate-300 hover:text-white transition",
+                                        "aria-label": "Live",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fi$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["FiExternalLink"], {
+                                            className: "text-xl",
+                                            "aria-hidden": "true"
+                                        }, void 0, false, {
+                                            fileName: "[project]/components/projects/ProjectCard.tsx",
+                                            lineNumber: 132,
+                                            columnNumber: 19
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/projects/ProjectCard.tsx",
+                                        lineNumber: 127,
+                                        columnNumber: 17
+                                    }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: project.external,
                                         target: "_blank",
                                         rel: "noopener noreferrer",
@@ -435,14 +451,14 @@ function ProjectCard({ project, reverse = false }) {
                                             "aria-hidden": "true"
                                         }, void 0, false, {
                                             fileName: "[project]/components/projects/ProjectCard.tsx",
-                                            lineNumber: 133,
-                                            columnNumber: 17
+                                            lineNumber: 142,
+                                            columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/projects/ProjectCard.tsx",
-                                        lineNumber: 126,
-                                        columnNumber: 15
-                                    }, this)
+                                        lineNumber: 135,
+                                        columnNumber: 17
+                                    }, this))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/projects/ProjectCard.tsx",
