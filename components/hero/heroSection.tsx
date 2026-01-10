@@ -19,10 +19,10 @@ export default function HeroSection() {
           </h2>
 
           <p className="mt-6 sm:mt-8 md:mt-10 max-w-xl text-base sm:text-lg leading-relaxed text-slate-300">
-            I’m a software engineer specializing in building scalable and modern
-            applications. I focus on full-stack development, system design, and
-            production-ready solutions—turning complex problems into clean,
-            maintainable systems with real-world impact.
+            I’m a software engineer who builds production-ready applications with strong
+            engineering fundamentals, clean architectures, and modern tooling. I enjoy
+            taking ideas from prototype to deployment and solving real problems through
+            thoughtful software.
           </p>
 
           <div className="mt-8 sm:mt-10 md:mt-12 flex flex-wrap items-center gap-4">
