@@ -27,7 +27,7 @@ export default function HeroSection() {
 
           <div className="mt-8 sm:mt-10 md:mt-12 flex flex-wrap items-center gap-4">
             <a
-              href="#experience"
+              href="#work"
               className="rounded-md border border-white/15 px-5 py-3 text-sm font-medium text-slate-100 transition hover:bg-white/5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-rose-300"
             >
               View my Work
