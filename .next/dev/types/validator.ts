@@ -45,6 +45,24 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
   type __Unused = __Check
 }
 
+// Validate ../../../app/braids-booking-platform/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/braids-booking-platform">> = Specific
+  const handler = {} as typeof import("../../../app/braids-booking-platform/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../../app/infrastructure-platform/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/infrastructure-platform">> = Specific
+  const handler = {} as typeof import("../../../app/infrastructure-platform/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../../app/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/">> = Specific

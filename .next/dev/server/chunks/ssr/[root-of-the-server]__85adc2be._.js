@@ -38,6 +38,7 @@ const projects = [
         external: "https://www.hotel-leprocess.com/",
         showDetailsButton: true,
         showTemplateButton: true,
+        templateUrl: "https://hotel-template.gloria-djonret.com/",
         techStack: {
             backend: [
                 "Spring Boot",
@@ -68,8 +69,8 @@ const projects = [
             "PostgreSQL"
         ],
         image: "/images/projects/Project4.png",
-        github: "https://github.com/gdjonret/Admin-Patform-Hotel.git",
-        // external: "https://your-demo-link.com",
+        github: "https://github.com/gdjonret/Admin-Management-Hotel.git",
+        external: "/admin-demo",
         showDetailsButton: true
     },
     {

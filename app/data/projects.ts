@@ -50,7 +50,7 @@ export const projects: Project[] = [
     tech: ["NextJS", "TypeScript", "React", "Tailwind CSS"],
     image: "/images/projects/Project6.png",
     github: "https://github.com/gdjonret/Braids-website.git",
-    //external: "https://your-demo-link.com",
+    external: "/braids-booking-platform",
   },
   {
     id: "faculty-profile-website",
@@ -70,6 +70,6 @@ export const projects: Project[] = [
     tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
     image: "/images/projects/Project8.png",
     github: "https://github.com/gdjonret/Infrastructure-Website.git",
-   // external: "https://your-demo-link.com",
+    external: "/infrastructure-platform",
   },
 ];

@@ -228,7 +228,8 @@ const projects = [
             "Tailwind CSS"
         ],
         image: "/images/projects/Project6.png",
-        github: "https://github.com/gdjonret/Braids-website.git"
+        github: "https://github.com/gdjonret/Braids-website.git",
+        external: "/braids-booking-platform"
     },
     {
         id: "faculty-profile-website",
@@ -254,7 +255,8 @@ const projects = [
             "Tailwind CSS"
         ],
         image: "/images/projects/Project8.png",
-        github: "https://github.com/gdjonret/Infrastructure-Website.git"
+        github: "https://github.com/gdjonret/Infrastructure-Website.git",
+        external: "/infrastructure-platform"
     }
 ];
 }),
